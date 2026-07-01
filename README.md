@@ -10,7 +10,7 @@
   font-style: normal;
 }
 
-`Regular字重，TC字型`
+***Regular字重，TC字型***
 @font-face {
   font-family: "GenWanMin-R";
   src: url("https://cdn.jsdelivr.net/gh/EOZStudio/GenWanMin-webfont@main/GenWanMin2TC-R.woff2") format("woff2");
