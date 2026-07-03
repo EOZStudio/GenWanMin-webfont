@@ -3,18 +3,18 @@
 ```
 ***Medium字重，TC字型***
 @font-face {
-  font-family: "GenWanMin-M";
+  font-family: "GenWanMin";
   src: url("https://cdn.jsdelivr.net/gh/EOZStudio/GenWanMin-webfont@main/GenWanMin2TC-M.woff2") format("woff2");
   font-display: swap;
-  font-weight: normal;
+  font-weight: 500;
   font-style: normal;
 }
 
 ***Regular字重，TC字型***
 @font-face {
-  font-family: "GenWanMin-R";
+  font-family: "GenWanMin";
   src: url("https://cdn.jsdelivr.net/gh/EOZStudio/GenWanMin-webfont@main/GenWanMin2TC-R.woff2") format("woff2");
   font-display: swap;
-  font-weight: normal;
+  font-weight: 400;
   font-style: normal;
 }```
