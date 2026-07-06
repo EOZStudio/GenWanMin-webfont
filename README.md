@@ -4,7 +4,7 @@
 ***Medium字重，TC字型***
 @font-face {
   font-family: "GenWanMin";
-  src: url("https://cdn.jsdelivr.net/gh/EOZStudio/GenWanMin-webfont@v1.1/GenWanMin2TC-M.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/EOZStudio/GenWanMin-webfont@v1.0.0/GenWanMin2TC-M.woff2") format("woff2");
   font-display: swap;
   font-weight: 500;
   font-style: normal;
@@ -13,7 +13,7 @@
 ***Regular字重，TC字型***
 @font-face {
   font-family: "GenWanMin";
-  src: url("https://cdn.jsdelivr.net/gh/EOZStudio/GenWanMin-webfont@v1.1/GenWanMin2TC-R.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/EOZStudio/GenWanMin-webfont@v1.0.0/GenWanMin2TC-R.woff2") format("woff2");
   font-display: swap;
   font-weight: 400;
   font-style: normal;
